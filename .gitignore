@@ -9,3 +9,5 @@ pkg/
 .yardoc/
 doc/
 
+/Makefile~
+/metadata.json
